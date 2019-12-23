@@ -1,0 +1,46 @@
+{% load static %}
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+    <title>OMG</title>
+</head>
+
+
+<body class="">
+    <header id="header" class="alt">
+        <div class="inner">
+            <h1>TEAM_OMG</h1>
+            <p>메인페이지</p>
+        </div>
+    </header>
+    <section id="intro" class="main">
+        <h2>실시간상황</h2>
+        <video id='video' width='700px' height='500px' autoplay></video><br>
+        <button id='capture'>캡쳐</button>
+    </section>
+
+    <section id="intro" class="main">
+        <h2>캡쳐된사진</h2>
+        <img src="" id='photo' >
+        <canvas id='canvas' width='256px' height='256px' style="display: none;"></canvas>
+        <form action="{% url 'check' %}" method="POST">
+            {% csrf_token %}
+            <input id='image' name='image' type="hidden" value="">
+            <input type="submit" value="이미지생성">
+        </form>
+    
+    </section>
+    <script src="{% static 'js/video.js' %}"></script>
+    <footer id="footer">
+        <ul class="icons">
+            <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+            <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+            <li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+            <li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+        <p class="copyright">© TEAM_OMG CJY KSH LYT YJH</p>
+    </footer>
+
+
+</body>
