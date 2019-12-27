@@ -11,4 +11,4 @@
 
 ![ResNet18](./ResNet18.png)
 
-<center>**ResNet18**</center>
+**ResNet18**
