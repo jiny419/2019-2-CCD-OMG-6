@@ -3,8 +3,12 @@
 ---
 ![framework](./framework1.png)
 
-<center><img src="./framework1.png"></center>
+**framework**
 
 ![Image training system](./image_training_process.png)
 
+**Image training system**
+
 ![ResNet18](./ResNet18.png)
+
+** ResNet18**
