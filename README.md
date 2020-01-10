@@ -1,5 +1,15 @@
 # 2019-2-CCD-OMG-6
-**Criminal detection model using deep-learning**
+## Criminal detection model using deep-learning
+
+### Team members
+ - 김송희
+ 
+ - 양준혁
+ 
+ - 이용택
+ 
+ - 채진영
+ 
 ### System Architecture
 
 <p align="center">
