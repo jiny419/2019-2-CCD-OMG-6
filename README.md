@@ -3,7 +3,7 @@
 ### System Architecture
 
 <p align="center">
-  <img src="./framework1.png", width="500">
+  <img src="./framework1.png", width="300">
 </p>
 
 ### Image training system
@@ -11,7 +11,20 @@
   <img src="./image_training_process.png", width="500">
 </p>
 
-### Used Model Arichitecture
+### Used Model Arichitecture(ResNet18)
 <p align="center">
-  <img src="./ResNet18.png", width="300">
+  <img src="./ResNet18.png", width="200", alt="ResNet18">
 </p>
+
+### Version
+```
+Python : 3.6
+Pytorch : 1.3.1
+Matplotlib : 3.1.1
+Torchvision : 0.4.2
+Django : 2.2.7
+OpenCV
+Skimage
+PIL
+Harrcascades
+```
