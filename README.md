@@ -38,3 +38,14 @@ Skimage
 PIL
 Harrcascades
 ```
+### Result
+#### Image generated from StarGANS
+<p align="center">
+  <img src="./Result.png", width="500">
+</p>
+
+### Project Gantt Charts
+<p align="center">
+  <img src="./Gantt_Charts.png", width="500">
+</p>
+
