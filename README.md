@@ -1,7 +1,10 @@
 # 2019-2-CCD-OMG-6
 **Criminal detection model using deep-learning**
----
-![framework](./framework1.png)
+### System Architecture
+
+<p align="center">
+  <img src="./framework1.png", width="1024">
+</p>
 
 **framework**
 
