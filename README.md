@@ -2,13 +2,13 @@
 ## Criminal detection model using deep-learning
 
 ### Team members
- - 김송희
+ - Songhee Kim
  
- - 양준혁
+ - JunHyuk Yang
  
- - 이용택
+ - YongTaek Lee
  
- - 채진영
+ - JinYeong Chae
  
 ### System Architecture
 
@@ -45,7 +45,7 @@ Harrcascades
 </p>
 
 ### Project Gantt Charts
-<p align="center">
+<p>
   <img src="./Gantt_Charts.png", width="500">
 </p>
 
