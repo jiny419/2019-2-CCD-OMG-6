@@ -21,7 +21,7 @@
   <img src="./image_training_process.png", width="500">
 </p>
 
-### Used Model Arichitecture(ResNet18)
+### Model Arichitecture(ResNet18)
 <p align="center">
   <img src="./ResNet18.png", width="200", alt="ResNet18">
 </p>
