@@ -2,13 +2,15 @@
 ## Criminal detection model using deep-learning
 
 ### Team members
+ - JinYeong Chae
+ 
  - Songhee Kim
  
  - JunHyuk Yang
  
  - YongTaek Lee
  
- - JinYeong Chae
+
  
 ### System Architecture
 
